@@ -9,8 +9,10 @@ public class App {
     }
 
     public static void main(String[] args) {
+
+        //Plantilla Vacia
+
         System.out.println(new App().getGreeting());
 
-        //Inicio
     }
 }
